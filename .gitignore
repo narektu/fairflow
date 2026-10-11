@@ -32,3 +32,5 @@ dist/
 *.iml
 .env
 *.log
+target/
+.jqwik-database

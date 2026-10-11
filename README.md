@@ -4,7 +4,7 @@ Distributed DAG workflow engine on Kafka with a critical-path-aware, multi-tenan
 
 > Status: in progress (week 1 of 8)
 
-<!-- CI badge goes here after Week 1 -->
+[![CI](https://github.com/narektu/fairflow/actions/workflows/ci.yml/badge.svg)](https://github.com/narektu/fairflow/actions/workflows/ci.yml)
 
 ## Problem
 <!-- one paragraph: what goes wrong with FIFO scheduling of DAG workflows -->
